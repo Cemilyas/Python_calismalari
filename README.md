@@ -1,1 +1,1 @@
-Sıfırdan ileri seviye Pyhton notları
+Python notları
